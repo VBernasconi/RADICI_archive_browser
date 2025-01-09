@@ -1,5 +1,8 @@
 # RADICI archive browser
-Platform to browse through different archive and extract corresponding IIIF manifests
+Platform to browse through different archive and extract corresponding IIIF manifests. For the time being the platform browse through the two following  archive:
+
+- https://lodovico.medialibrary.it/
+- https://www.cdc.classense.ra.it/
 
 
 ## Installation
